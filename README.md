@@ -23,7 +23,11 @@ ERAYA represents the **Human Health domain** within the broader ERAYA Intelligen
 - **BhumiRaksha** – Planetary Protection Intelligence  
 
 Together these platforms aim to build an integrated intelligence system connecting **human wellbeing, environmental sustainability and planetary protection**.
+## Platforms
 
+• ERAYA – https://github.com/eraya-intelligence-system/ERAYA  
+• Bhumisetu – https://github.com/eraya-intelligence-system/Bhumisetu  
+• BhumiRaksha – https://github.com/eraya-intelligence-system/BhumiRaksha
 ---
 
 © ERAYA Intelligence System Pvt Ltd  
